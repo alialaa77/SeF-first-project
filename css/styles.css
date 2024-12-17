@@ -580,13 +580,13 @@ p {
 
 
 .offeritem:after {
-   margin-right:16.5% ;
+  
     position: absolute;
     content: "";
     width: 0;
     height: 0;
     top: 0;
-    right: 0;
+    left: 0;
     transition: .4s;
     opacity: .5;
     background-color:#6b705c;
